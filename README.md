@@ -1,2 +1,2 @@
 My first readme
-README UPDATED
+README UPDATED from GitHub.com
